@@ -29,3 +29,7 @@ git reset --hard HEAD~1
 #11 touch .gitignore to create gitignore file
 
 #12 git switch -c branchname to make and shift to new branch
+
+#13 git merge branchname to merge the branch
+
+#14
