@@ -32,4 +32,4 @@ git reset --hard HEAD~1
 
 #13 git merge branchname to merge the branch
 
-#14
+#14 git branch -d branchname to delete branch
