@@ -1,0 +1,29 @@
+#1 git add filename to stage file
+git add . to staging all changes
+
+#2 git commit -m "your message" to commit changes
+
+#3 git log to view all commits
+
+#4 git log --oneline to get shorter view of commits
+
+#5 git restore . to restore all file
+git restore filename to restore the changes which is to be latestly commited
+
+#6 git diff to view change if it is in staging area
+
+#7 git diff HEAD~1 HEAD to view changes in all file
+
+#8 git restore --staged filename to remove it from staging area
+
+#9 git commit --amend -m "Your message" to change the commit 
+
+#10 
+soft reset - to reset changes in staging area
+git reset --soft HEAD~1
+Mixed reset - to reset chagnes in working directory
+git reset HEAD~1
+hard reset - to discard changes which was not commited
+git reset --hard HEAD~1
+
+#11 touch .gitignore to create gitignore file
