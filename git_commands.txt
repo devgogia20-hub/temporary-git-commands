@@ -27,3 +27,5 @@ hard reset - to discard changes which was not commited
 git reset --hard HEAD~1
 
 #11 touch .gitignore to create gitignore file
+
+#12 git switch -c branchname to make and shift to new branch
